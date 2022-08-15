@@ -10,3 +10,6 @@ Simply, it is the process of automating the on premises Virtual machine is a sim
 
 Install the latest version of Vagrant.
 Install a virtualization product such as; VirtualBox, VMware Fusion, or Hyper-V.
+
+# The best place to find more boxes is HashiCorp's Vagrant Cloud box catalog. 
+https://app.vagrantup.com/boxes/search
